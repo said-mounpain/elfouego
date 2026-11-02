@@ -1,50 +1,39 @@
-# Salut, je suis Saïd 👋
+# Salut, moi c'est [Votre Prénom & Nom] 👋
 
-🎯 **En transition vers un poste de DevSecOps Engineer / Cloud Security Engineer**.
+### 👨‍💻 Enseignant en Informatique & Passionné de DevOps / Cloud
 
-Enseignant en informatique depuis déjà 8 années, co-fondateur d'une entreprise de cybersécurité en cours d'accréditation ANTIC (Cameroun), je documente ici ma transition vers l'ingénierie cloud et la sécurité DevSecOps.
+Je m'intéresse au développement de systèmes robustes, à l'administration de bases de données et à l'automatisation des infrastructures.
 
----
-
-## 🚀 Ce que j'apprends actuellement
-
-- ☁️ **Azure** — AZ-900 → AZ-104 → AZ-400, avec l'objectif d'obtenir AZ-500 (Azure Security Engineer)
-- 🔐 **Cybersécurité** — parcours Cyber Security 101 et SOC Analyse sur TryHackMe (réseaux, Linux, cryptographie, web hacking, OWASP Top 10)
-- ⚙️ **DevOps** — CI/CD, Terraform, Kubernetes (formation pratique 100 jours DevOps, appliquée initialement sur AWS puis transposée sur Azure)
-- 🐧 **Linux** — administration système, scripting Bash, gestion de services
-
-## 🛠️ Compétences techniques
-
-**Cloud & Infrastructure**
-`Azure` `Terraform` `Kubernetes` `Docker` `Linux (Ubuntu/Debian)`
-
-**Sécurité**
-`OWASP Top 10` `Analyse réseau (Nmap, Wireshark)` `Cryptographie` `SIEM (en apprentissage)` `ISO 27001`
-
-**Développement & Automatisation**
-`Python` `Next.js` `Bash` `SQL` `Git/GitHub`
-
-**Certifications en cours**
-- 🎓 AZ-900 — [statut : en cours / obtenu]
-- 🎓 AZ-500 — objectif [mois/année]
-- 🎓 Cyber Security 101 (TryHackMe) — [X%] complété
-
-## 📂 Projets phares
-
-| Projet | Description | Statut |
-|---|---|---|
-| [formation-devops-azure](lien) | Documentation complète de ma formation Azure/DevOps : notes, commandes, projets pratiques | 🟢 Actif |
-
-## 🎥 Contenu éducatif
-
-Je documente mon apprentissage en vidéo sur YouTube : [lien vers la chaîne] — chaque vidéo est accompagnée des commandes et ressources dans ce profil GitHub.
-
-## 📫 Me contacter
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/sa%C3%AFd-mounpain-45696410a/)
-- 📺 [YouTube](lien)
-- ✉️ [mounpainsaid26@gmail.com]
+- 🔭 **Je travaille actuellement sur :** Des projets d'orchestration de conteneurs et d'optimisation de bases de données.
+- 🎓 **Diplôme :** Master en Informatique.
+- 📚 **J'étudie :** Le déploiement continu (CI/CD) et l'écosystème Kubernetes.
+- 💬 **N'hésitez pas à m'aborder sur :** Linux, Docker, PostgreSQL et l'analyse de données.
 
 ---
 
-*"De l'enseignement à la cybersécurité cloud — je documente publiquement chaque étape de cette transition."*
+### 🛠️ Stack Technique & Outils
+
+**Systèmes & Cloud / DevOps :**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Bases de données & Langages :**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+---
+
+### 📊 Statistiques GitHub
+
+![Statistiques de mon GitHub](https://github-readme-stats.vercel.app/api?username=VOTRE_NOM_DUTILISATEUR&show_icons=true&theme=radial)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_NOM_DUTILISATEUR&layout=compact&theme=radial)
+
+---
+
+### 📬 Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VOTRE_PROFIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@example.com)
